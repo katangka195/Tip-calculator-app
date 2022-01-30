@@ -5,6 +5,7 @@
 @layer base {
   body {
     font-family: "Space Mono", monospace;
+    background: #c5e4e7;
   }
 }
 
